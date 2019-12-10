@@ -1,7 +1,10 @@
 def using_until
   levitation_force = 6
  loop do 
-   puts #your code here
+   puts "Wingardium Leviosa"
+   until levitation_force < 10 
+   
+   #your code here
     
 end
 
