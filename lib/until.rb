@@ -3,7 +3,7 @@ def using_until
  loop do 
    puts "Wingardium Leviosa"
    until levitation_force < 10 
-   
+ end
    #your code here
     
 end
